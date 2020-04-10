@@ -13,7 +13,7 @@ I made this extension because I needed a feature like this on VS Code and I didn
 
 ## How to use
 
-![multicopygif](/media/gifmulticopy.gif)
+![multicopygif](https://raw.githubusercontent.com/adoi/multicopy/master/media/gifmulticopy.gif?token=AFTRRNUSNKFCK7WFPKB5GHC6TI4OW)
 
 1. To copy a snippet you press `cmd+shift+c` (on Mac) or `ctrl+shift+c` (on Windows) 
 2. To paste a snippet from the list of snippets you press `.` and you get the list of snippets
