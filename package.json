@@ -3,7 +3,7 @@
   "displayName": "multicopy",
   "description": "Copy and paste multiple snippets of code in your workspace.",
   "author": "Adonis Murati <adonismurati@gmail.com>",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "publisher": "adoi",
   "repository": {
     "type": "git",
